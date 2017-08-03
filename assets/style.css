@@ -34,7 +34,8 @@ aside p { margin-bottom: 0; }
 
 figure {
 	width: 130px;
-	margin: 10px 0;
+  margin: 10px 0;
+  float: right;
 }
 
 article {
@@ -50,10 +51,10 @@ aside {
 
 
 @media screen and (max-width: 600px) {
-	
-	
-	
-	
+
+
+
+
 }
 
 
