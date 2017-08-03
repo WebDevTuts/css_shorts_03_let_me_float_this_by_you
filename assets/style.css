@@ -56,7 +56,7 @@ aside {
 
 @media screen and (max-width: 600px) {
 
-
+  article { width: auto; float: none; }
 
 
 }
