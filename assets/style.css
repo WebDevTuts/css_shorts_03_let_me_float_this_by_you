@@ -39,7 +39,9 @@ figure {
 }
 
 article {
-	margin-bottom: 30px;
+  margin-bottom: 30px;
+  width: 57%;
+  float: left;
 }
 
 aside {
